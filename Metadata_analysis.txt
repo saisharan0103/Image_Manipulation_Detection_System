@@ -1,0 +1,7 @@
+ResolutionUnit : 2
+ExifOffset : 236
+Software : Adobe Photoshop CS5 (12.0x20100115 [20100115.m.998 2010/01/15:02:00:00 cutoff; m branch])  Windows
+Orientation : 1
+DateTime : 2017:09:11 22:15:46
+XResolution : 300.0
+YResolution : 300.0
